@@ -1,5 +1,5 @@
 # CricketToPhone
-This app notify the subscriber about status of the subscribe match
+This app notify the subscriber about status of the subscribed match
 
 You have been assigned to implement a system called ‘CrickToPhone’. In this system, an
 application server records the statistics of currently playing cricket matches. A cricket fan can
